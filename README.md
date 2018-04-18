@@ -2,7 +2,7 @@
 
 ## General information
 
-The application is part of the access control system for the main gate of the building. Read about it in the article: [How to implement door unlocking system with Raspberry Pi, iPhone and service in cloud.](https://blog.infullmobile.com/...).
+The application is part of the access control system for the main gate of the building. Read about it in the article: [How to implement door unlocking system with Raspberry Pi, iPhone and service in cloud.](https://blog.infullmobile.com/how-to-implement-door-unlocking-system-with-raspberry-pi-iphone-and-service-in-cloud-3f55b76d700a).
 
 ## Requirements
 
